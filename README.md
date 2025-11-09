@@ -57,7 +57,7 @@ while(1);
  
 **OUTPUT:**
 
-https://github.com/user-attachments/assets/8092a093-105a-439b-910c-5ef4e235d6f3
+<img width="1919" height="1151" alt="image" src="https://github.com/user-attachments/assets/be4ed3ab-5d96-4350-a9f5-0c7130dcb768" />
 **Result:**
 
 Thus the Serial transfer of Single Byte / Character using 8051 KEIL was done and shown the output.
